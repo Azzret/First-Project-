@@ -1,1 +1,2 @@
 C:\OpenServer\domains\6.02.2018\Urmat\Urmat\bin\Debug\Urmat.exe.config
+C:\OpenServer\domains\First-Project-\Urmat\Urmat\bin\Debug\Urmat.exe.config
